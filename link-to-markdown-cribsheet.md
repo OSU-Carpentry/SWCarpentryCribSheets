@@ -10,7 +10,7 @@ then make changes, and view the results almost instatly.
 
 > *    The site is here:
 ~~~
-`http://daringfireball.net/projects/markdown/dingus`
+[http://daringfireball.net/projects/markdown/dingus] (http://daringfireball.net/projects/markdown/dingus)
 ~~~
 
 Hope this helps someone,
